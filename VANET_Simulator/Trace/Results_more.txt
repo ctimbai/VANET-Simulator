@@ -1,0 +1,20 @@
+Times:	1	SimulationTime:	200	Case:	Knapsack_allocation_by_DynamicProgram:	pd/s:	478.845	HitRate:	0.05	LossRate:	0.002
+Times:	2	SimulationTime:	400	Case:	Knapsack_allocation_by_DynamicProgram:	pd/s:	478.845	HitRate:	0.084	LossRate:	0.002
+Times:	3	SimulationTime:	600	Case:	Knapsack_allocation_by_DynamicProgram:	pd/s:	478.845	HitRate:	0.128	LossRate:	0.014
+Times:	4	SimulationTime:	800	Case:	Knapsack_allocation_by_DynamicProgram:	pd/s:	478.845	HitRate:	0.142	LossRate:	0.026
+Times:	5	SimulationTime:	1000	Case:	Knapsack_allocation_by_DynamicProgram:	pd/s:	478.845	HitRate:	0.168	LossRate:	0.028
+
+
+Times:	1	SimulationTime:	200	Case:	In_ascending_order_of_size_by_Greedy:	pd/s:	482.226	HitRate:	0.044	LossRate:	0
+Times:	2	SimulationTime:	400	Case:	In_ascending_order_of_size_by_Greedy:	pd/s:	482.226	HitRate:	0.102	LossRate:	0
+Times:	3	SimulationTime:	600	Case:	In_ascending_order_of_size_by_Greedy:	pd/s:	482.226	HitRate:	0.116	LossRate:	0.006
+Times:	4	SimulationTime:	800	Case:	In_ascending_order_of_size_by_Greedy:	pd/s:	482.226	HitRate:	0.18	LossRate:	0.014
+Times:	5	SimulationTime:	1000	Case:	In_ascending_order_of_size_by_Greedy:	pd/s:	482.226	HitRate:	0.148	LossRate:	0.01
+
+Times:	1	SimulationTime:	200	Case:	In_ascending_order_of_size_by_Greedy:	pd/s:	482.226	HitRate:	0.048	LossRate:	0
+Times:	2	SimulationTime:	400	Case:	In_ascending_order_of_size_by_Greedy:	pd/s:	482.226	HitRate:	0.094	LossRate:	0.002
+Times:	3	SimulationTime:	600	Case:	In_ascending_order_of_size_by_Greedy:	pd/s:	482.226	HitRate:	0.124	LossRate:	0.004
+Times:	4	SimulationTime:	800	Case:	In_ascending_order_of_size_by_Greedy:	pd/s:	482.226	HitRate:	0.18	LossRate:	0.004
+Times:	5	SimulationTime:	2000	Case:	In_ascending_order_of_size_by_Greedy:	pd/s:	482.226	HitRate:	0.17	LossRate:	0.008
+
+

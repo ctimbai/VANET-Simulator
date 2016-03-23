@@ -1,0 +1,21 @@
+All of Resources:
+	-ResID:	1	-ResType:	A	-ResSize:	1	-ResPop:	10	-ResTime:	144.236
+
+	-ResID:	2	-ResType:	B	-ResSize:	9	-ResPop:	6.32878	-ResTime:	168.186
+
+	-ResID:	3	-ResType:	C	-ResSize:	1	-ResPop:	4.84284	-ResTime:	153.771
+
+	-ResID:	4	-ResType:	D	-ResSize:	9	-ResPop:	4.00535	-ResTime:	161.099
+
+	-ResID:	5	-ResType:	E	-ResSize:	9	-ResPop:	3.45684	-ResTime:	109.487
+
+	-ResID:	6	-ResType:	F	-ResSize:	7	-ResPop:	3.06493	-ResTime:	108.91
+
+	-ResID:	7	-ResType:	G	-ResSize:	7	-ResPop:	2.76844	-ResTime:	104.233
+
+	-ResID:	8	-ResType:	H	-ResSize:	5	-ResPop:	2.5349	-ResTime:	190.675
+
+	-ResID:	9	-ResType:	I	-ResSize:	9	-ResPop:	2.34531	-ResTime:	161.178
+
+	-ResID:	10	-ResType:	J	-ResSize:	5	-ResPop:	2.18776	-ResTime:	182.208
+
